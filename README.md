@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi There!
+
+I am a web developer who Can code HTML, CSS, Javascript, PHP, and more.
+
